@@ -1,7 +1,9 @@
 # debate2vec
 Word-vectors created from a large corpus of competative debate evidence.
 
-
+# Download Link
+Github won't let me store large files in their repos. 
+* [FastText Vectors Here](https://drive.google.com/file/d/1m-CwPcaIUun4qvg69Hx2gom9dMScuQwS/view?usp=sharing)
 
 Created from all publically available Cross Examination Competative debate evidence posted by the community on [Open Evidence](https://openev.debatecoaches.org/) (From 2013-2019)
 
