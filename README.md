@@ -7,6 +7,15 @@ Created from all publically available Cross Examination Competative debate evide
 
 Search through the original evidence by going to [debate.cards](http://debate.cards/)
 
+Stats about this corpus: 
+* 222485 unique documents larger than 200 words
+* 107555 unique words (showing up more than 10 times in the corpus)
+* 101 million total words
+
+Stats about debate2vec vecotrs: 
+* 300 dimensions, minimum number of appearances of a word was 10, trained for 100 epochs with lr set to 0.10 using FastText
+* Uncased (will release cased)
+* No subword information
 
 The corpus includes the following topics 
 
