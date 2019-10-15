@@ -1,5 +1,5 @@
 # debate2vec
-Word-vectors created from a large corpus of competative debate evidence.
+Word-vectors created from a large corpus of competative debate evidence, and data extraction / processing scripts
 
 # Download Link
 Github won't let me store large files in their repos. 
