@@ -17,7 +17,7 @@ Stats about this corpus:
 * 107555 unique words (showing up more than 10 times in the corpus)
 * 101 million total words
 
-Stats about debate2vec vecotrs: 
+Stats about debate2vec vectors: 
 * 300 dimensions, minimum number of appearances of a word was 10, trained for 100 epochs with lr set to 0.10 using FastText
 * lowercased (will release cased)
 * No subword information
