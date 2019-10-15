@@ -44,3 +44,5 @@ Initial release is of fasttext vectors without subword information. Future relea
 
 # Screenshots
 ![](https://github.com/Hellisotherpeople/debate2vec/blob/master/debate2vec.jpg)
+![](https://github.com/Hellisotherpeople/debate2vec/blob/master/debate2vec2.jpg)
+![](https://github.com/Hellisotherpeople/debate2vec/blob/master/debate2vec3.jpg)
