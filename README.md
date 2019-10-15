@@ -8,7 +8,7 @@ Github won't let me store large files in their repos.
 
 # About 
 
-Created from all publically available Cross Examination Competative debate evidence posted by the community on [Open Evidence](https://openev.debatecoaches.org/) (From 2013-2019)
+Created from all publically available Cross Examination Competative debate evidence posted by the community on [Open Evidence](https://openev.debatecoaches.org/) (From 2013-2020)
 
 Search through the original evidence by going to [debate.cards](http://debate.cards/)
 
@@ -30,6 +30,7 @@ The corpus includes the following topics
 * 2016-2017 China
 * 2017-2018 Education
 * 2018-2019 Immigration
+* 2019-2020 Reducing Arms Sales
 
 Other topics that this word vector model will handle extremely well
 
