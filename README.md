@@ -43,4 +43,4 @@ Other topics that this word vector model will handle extremely well
 Initial release is of fasttext vectors without subword information. Future releases will include fine-tuned GPT-2 and other high end models as my GPU compute allows. 
 
 # Screenshots
-[](https://github.com/Hellisotherpeople/debate2vec/blob/master/debate2vec.jpg)
+![](https://github.com/Hellisotherpeople/debate2vec/blob/master/debate2vec.jpg)
