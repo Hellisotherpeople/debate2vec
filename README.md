@@ -19,7 +19,7 @@ Stats about this corpus:
 
 Stats about debate2vec vecotrs: 
 * 300 dimensions, minimum number of appearances of a word was 10, trained for 100 epochs with lr set to 0.10 using FastText
-* Uncased (will release cased)
+* lowercased (will release cased)
 * No subword information
 
 The corpus includes the following topics 
