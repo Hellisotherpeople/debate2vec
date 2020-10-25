@@ -13,7 +13,7 @@ Created from all publically available Cross Examination Competative debate evide
 Search through the original evidence by going to [debate.cards](http://debate.cards/)
 
 Stats about this corpus: 
-* 222485 unique documents larger than 200 words (DebateSum plus some additional goodies from college debaters not included in DebateSum)
+* 222485 unique documents larger than 200 words (DebateSum plus some additional debate docs that weren't well-formed enough for inclusion into DebateSum)
 * 107555 unique words (showing up more than 10 times in the corpus)
 * 101 million total words
 
